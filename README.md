@@ -2,6 +2,10 @@
 
 > AI generated
 
+## Disclaimer
+
+**Important**: Some of the prompts and techniques in this repository may have been collected from various sources across the internet. While efforts have been made to curate and organize this content, original sources may not always be linked or credited. Users should be aware that not all content is original, and some may come from unattributed sources.
+
 ## Overview
 
 This repository is a curated collection of prompts, techniques, and tools for effectively working with AI language models. It's designed to be a comprehensive resource for developers, researchers, and enthusiasts looking to optimize their interactions with AI systems.
