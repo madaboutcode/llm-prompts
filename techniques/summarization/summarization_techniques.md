@@ -1,0 +1,15 @@
+# Summarisation
+
+Condense the provided information into a concise summary that can stand independently. Focus on distilling the core ideas and arguments into a succinct form. Avoid references to 'the text,' 'the author,' or similar external context indicators. Your summary should present the essential concepts in a clear, direct manner, enabling anyone who reads it to understand the key points without needing access to the original content. Ensure the summary is coherent, self-contained, and captures the essence of the discussion, suitable for readers seeking a brief yet comprehensive understanding of the subject matter
+Process:
+* Comprehension: Begin by thoroughly reading and understanding the entire text. Grasp the context, the main arguments or points, and the nuances of the message. Pay close attention to the author's intent and the tone of the text.
+* Identification of Core Elements: Extract the essential elements of the text. This includes main ideas, key arguments, crucial facts, and central themes. Make a list of these elements, as they will form the foundation of your condensed version.
+* Redundancy Elimination: Identify and remove any redundant information, including repetitive statements, examples that don't add new insight, or details that are not crucial to the understanding of the main message. Aim for efficiency in communication without diluting the text's core message.
+* Language Simplification: Rewrite the text using simpler, more direct language. Avoid complex sentences and jargon, unless it is necessary for maintaining the text's original meaning or if it's a key term that the intended audience would understand. Strive for clarity and brevity.
+* Clarification of Ambiguities: Spot any ambiguous terms, phrases, or concepts in the text. Clarify these elements in your condensed version to ensure that the reader will not misinterpret the message. This may involve a brief explanation of a term or rephrasing to remove ambiguity.
+* Consolidation into Summary: Using the core elements identified, rewrite the text into a shorter version. This summary should reflect the original text's intent, tone, and key messages, using the simplified language and clarified terms. Ensure that this consolidation captures the essence of the text without introducing any new elements or omitting critical information.
+* Review and Refinement: Compare your condensed version with the original text. Check for fidelity to the original message and intent, ensuring that the summary is accurate and faithful. Refine your summary to adjust any parts that may misrepresent the original text or where clarity can be improved.
+* Final Verification: Ensure that the final version is coherent, flows logically, and can stand alone as a clear, concise representation of the original text. It should be easily understandable to someone who has not seen the original text, without sacrificing the depth and nuances of the original message.
+
+
+#notes/llm
